@@ -9,4 +9,4 @@ Step One: Aquire a FE7 rom or any other GBA Fire Emblem rom file
 Step Two: Download an emulator and the FE_Builder application.
 Step Three: Create some assets for usage
 Step four: Be sure to import your assets and rip the old ones from the game.
-Emmanuel has big brain (BBEEEEET)
+Emmanuel has big brain (BEEEEET)
