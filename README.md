@@ -11,8 +11,8 @@ This project was made by Korman Item (Character Art and Box Art.), Emmanuel Roy(
 
 HOW TO PLAY.
 1. Dump a rom file of Fire Emblem Sacred Stones from your Gameboy Advance.
-2. Download an open source IPS patcher.
-3. Patch the rom with the IPS file in our releases.
+2. Download an open source UPS patcher.
+3. Patch the rom with the UPS file in our releases.
 4. Run the game either on a GBA emulator or on native hardware with a flashcard. 
 5. If you have a 3DS use a .gba to .cia converter and install the rom with FBI.
 
