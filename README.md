@@ -2,5 +2,15 @@
 This project is literally a school project.
 All of the assests and custom sprites, I use are available to you but you need to give me credit when applicable.
 This project is meant to show my skills with graphical design and HEX based editing skills.The project will also  still require a foundation in graphic design and some creativity.
+I can't really post to much on the github page, as the majority of the changes were on a hex editing front.
 
-This project was made by Korman Item, Emmanuel Roy, Samhith Komatreddy and Samarth Kabbur.
+This project was made by Korman Item (Character Art and Box Art.), Emmanuel Roy(Logic design, programming and debugging), Samhith Komatreddy and Samarth Kabbur(Debugging and Map design).
+
+
+HOW TO PLAY.
+1. Dump a rom file of Fire Emblem Sacred Stones from your Gameboy Advance.
+2. Download an open source IPS patcher.
+3. Patch the rom with the IPS file in our releases.
+4. Run the game either on a GBA emulator or on native hardware with a flashcard. 
+5. If you have a 3DS use a .gba to .cia converter and install the rom with FBI.
+
