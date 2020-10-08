@@ -1,5 +1,6 @@
 # WangProject
-This project was made as a tribute to our great saviour Mr. Wang
+This project was made as a tribute to our great saviour Mr. Wang.
+
 All of the assests and custom sprites, I use are open source but you need to give me credit when applicable.
 This project is meant to show my skills with graphical design and HEX based editing skills.The project will also  still require a foundation in graphic design and some creativity.
 
