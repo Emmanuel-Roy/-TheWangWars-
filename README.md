@@ -1,5 +1,5 @@
 # TheWangWars
-This project was made as a class project in tribute to our great teacher Mr. Wang. The project was made in FEBUILDER since it was super easy to use!
+This project was made as a class project in tribute to our great teacher Mr. Wang in our freshman year of high school. The project was made in FEBUILDER since it was super easy to use!
 
 This project was made by Korman Item (Character Art and Box Art.), Emmanuel Roy (Logic design, Map Design, Programming and Debugging), Samhith Komatreddy and Samarth Kabbur(Debugging).
 
